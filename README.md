@@ -7,7 +7,8 @@ The ChatBot is a Python program that uses the **\`nltk\`** library to create a s
 To get started with the ChatBot, follow the steps below:
 
 Install Python: Make sure you have Python installed on your computer. You can download Python from the official Python website at https://www.python.org/downloads/.
-Install NLTK library: The ChatBot uses the nltk library for natural language processing. You can install the nltk library using pip by running the following command in your terminal or command prompt:
+
+Install NLTK library: The ChatBot uses the **\`nltk\`** library for natural language processing. You can install the **\`nltk\`** library using pip by running the following command in your terminal or command prompt:
 ```bash
 pip install nltk
 ```
