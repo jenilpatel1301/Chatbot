@@ -20,10 +20,11 @@ nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 ```
 Clone the repository: Clone or download the ChatBot repository from GitHub at https://github.com/yourusername/chatbot. You can also download the code directly as a ZIP file.
-Run the ChatBot: Open the terminal or command prompt and navigate to the directory where the ChatBot code is located. Run the chatbot.py file using the Python interpreter by running the following command:
-Copy code
-python chatbot.py
 
+Run the ChatBot: Open the terminal or command prompt and navigate to the directory where the ChatBot code is located. Run the `chatbot.py` file using the Python interpreter by running the following command:
+```bash
+python chatbot.py
+```
 ## How to Use
 
 Once the ChatBot is running, you can start a conversation by typing in your input after the > prompt. The ChatBot will respond to your input with pre-defined responses based on regular expressions.
