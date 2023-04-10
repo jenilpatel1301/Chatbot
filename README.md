@@ -1,6 +1,6 @@
 # Chatbot #
 
-The ChatBot is a Python program that uses the **`nltk`** library to create a simple conversational chatbot. The chatbot is designed to respond to user input with pre-defined responses based on regular expressions.
+The ChatBot is a Python program that uses the **\`nltk\`** library to create a simple conversational chatbot. The chatbot is designed to respond to user input with pre-defined responses based on regular expressions.
 
 ## Getting Started
 
@@ -22,7 +22,8 @@ Clone the repository: Clone or download the ChatBot repository from GitHub at ht
 Run the ChatBot: Open the terminal or command prompt and navigate to the directory where the ChatBot code is located. Run the chatbot.py file using the Python interpreter by running the following command:
 Copy code
 python chatbot.py
-How to Use
+
+## How to Use
 
 Once the ChatBot is running, you can start a conversation by typing in your input after the > prompt. The ChatBot will respond to your input with pre-defined responses based on regular expressions.
 
@@ -30,7 +31,7 @@ You can ask the ChatBot questions or make statements, and the ChatBot will try t
 
 To end the conversation, simply type 'bye' and the ChatBot will display a goodbye message and exit.
 
-Customizing Responses
+## Customizing Responses
 
 You can customize the responses of the ChatBot by modifying the responses list in the chatbot.py file. The responses list contains tuples of regular expressions and corresponding responses. You can add, remove, or modify the regular expressions and responses to suit your needs.
 
