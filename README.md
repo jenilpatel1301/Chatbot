@@ -55,6 +55,3 @@ responses = [
 
 If you want to contribute to the ChatBot project, you can fork the repository, make changes, and create a pull request. Contributions such as bug fixes, improvements, and additional features are welcome.
 
-## License
-
-The ChatBot is open source software released under the MIT License. You can find the full license text in the LICENSE file.
